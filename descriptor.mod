@@ -4,5 +4,5 @@ tags={
 	"Events"
 	"Map"
 }
-name="Girls und Redux"
+name="Girls und Redux Dev"
 path="mod/girlsundredux/"
